@@ -1,0 +1,63 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background:#27ae60 ;
+    color:#000000  ;
+}
+
+h1{
+    text-align: center;
+    background-color:gray;
+    border-radius: 10px;
+    
+}
+h2,h3,h4{
+   text-align: center;
+    background-color:#4d5656;
+    border-radius: 10px; 
+}
+
+header img{
+    width: 320px;
+    height: 200px;
+}
+
+main img{
+    width:320px ;
+    height: 200px;
+    max-width: 45%;
+}
+
+nav {
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 15px;
+    border: #000000 1px dotted;
+    text-align: center;
+}
+
+nav a{
+    color: #000000;
+    text-decoration: none;
+    margin:55px 20px;
+    background: #5c7a9c;
+    border: #000000 1px dotted;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+footer {
+    text-align: center;
+}
+
+.tab {
+    margin-left: 20px;
+}
+
+.nokia {
+    text-align: center;
+}
+
+.nokia img {
+    max-width: 100%;
+}
